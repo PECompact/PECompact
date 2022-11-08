@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://raw.githubusercontent.com/PECompact/PECompact/main/assets/github-contribution-grid-snake.svg)
 <!--
 **PECompact/PECompact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
