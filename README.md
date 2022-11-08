@@ -1,6 +1,7 @@
 ### Hi there 👋
-![](https://raw.githubusercontent.com/PECompact/PECompact/main/assets/github-contribution-grid-snake.svg)
+
 <!--
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/PEComapct/PECompact/assets/github-contribution-grid-snake.svg" /></div>
 **PECompact/PECompact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
