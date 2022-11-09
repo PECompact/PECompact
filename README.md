@@ -1,4 +1,4 @@
-![](http://www.gxcw.com/data/attachment/forum/201707/28/1114226wwsg19gas2hihwy.gif)
+![](https://file.digitaling.com/eImg/uimages/20170828/1503901793881541.gif)
 
 ![](https://raw.githubusercontent.com/PECompact/PECompact/main/assets/github-contribution-grid-snake.svg)
 
