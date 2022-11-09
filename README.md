@@ -1,5 +1,4 @@
 ![](http://www.gxcw.com/data/attachment/forum/201707/28/1114226wwsg19gas2hihwy.gif)
-![](https://c.y.qq.com/base/fcgi-bin/u?__=0hPhsjE9dhgu)
 
 ![](https://raw.githubusercontent.com/PECompact/PECompact/main/assets/github-contribution-grid-snake.svg)
 
@@ -16,3 +15,4 @@
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=PECompact" /> </div>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=PECompact&theme=xcode" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PECompact" /> </div>
+
