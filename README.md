@@ -1,4 +1,4 @@
-![](https://p5.ssl.qhimgs1.com/sdr/400__/t01f8539536b1fb2495.gif)![](http://5b0988e595225.cdn.sohucs.com/images/20190706/b63522be9e1348a78dddded1b9a39734.gif)![](https://p0.ssl.qhimgs1.com/sdr/400__/t01be3d6aa3dadcb3ea.gif)
+![](https://p5.ssl.qhimgs1.com/sdr/400__/t01f8539536b1fb2495.gif)![](http://5b0988e595225.cdn.sohucs.com/images/20190706/b63522be9e1348a78dddded1b9a39734.gif)
 
 ![](https://raw.githubusercontent.com/PECompact/PECompact/main/assets/github-contribution-grid-snake.svg)
 
@@ -11,7 +11,7 @@
 
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PECompact&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=radical" /> </div>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PECompact" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PECompact" /> </div>![](https://p0.ssl.qhimgs1.com/sdr/400__/t01be3d6aa3dadcb3ea.gif)
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=PECompact" /> </div>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=PECompact&theme=xcode" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PECompact" /> </div>
