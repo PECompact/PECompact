@@ -1,4 +1,4 @@
-![](https://file.digitaling.com/eImg/uimages/20170828/1503901793881541.gif)
+![](https://p5.ssl.qhimgs1.com/sdr/400__/t01f8539536b1fb2495.gif)
 
 ![](https://raw.githubusercontent.com/PECompact/PECompact/main/assets/github-contribution-grid-snake.svg)
 
